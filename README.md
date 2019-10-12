@@ -1,2 +1,2 @@
 # NewOne
-Thi file is just for test
+This file is just for test
